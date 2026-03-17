@@ -17,7 +17,7 @@ Since the project uses ES modules, you must run it through a local web server.
 
 ### Live Demo
 Check out the live application here:
-**[https://sentiment-aura-sand.vercel.app](https://sentiment-aura-sand.vercel.app)**
+**[https://sentimentaura-sand.vercel.app](https://sentimentaura-sand.vercel.app)**
 
 ### Option 1: Using npx (Recommended)
 Open your terminal in the project directory and run:
