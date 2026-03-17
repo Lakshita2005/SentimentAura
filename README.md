@@ -11,27 +11,31 @@ An advanced AI-powered sentiment analyzer that detects multi-dimensional emotion
 - **Visual Spectrum**: Dynamic radar chart to visualize your emotional profile.
 - **Design**: Premium Glassmorphism 2.0 aesthetic with animated particles.
 
-## 🚀 How to Run
+## 🚀 Getting Started
 
-Since the project uses ES modules, you must run it through a local web server.
-
-### Live Demo
+### 🌐 Live Demo
 Check out the live application here:
 **[https://sentimentaura-sand.vercel.app](https://sentimentaura-sand.vercel.app)**
 
-### Option 1: Using npx (Recommended)
+---
+
+### 💻 Local Development
+> [!NOTE]
+> Since the project uses ES modules, you must run it through a local web server to avoid CORS issues.
+
+#### Option 1: Using npx (Recommended)
 Open your terminal in the project directory and run:
 ```bash
 npx serve .
 ```
 
-### Option 2: Using Python
+#### Option 2: Using Python
 If you have Python installed:
 ```bash
 python -m http.server 3000
 ```
 
-### Accessing the App
+### Accessing the App Locallly
 Once the server is running, open your browser to:
 **[http://localhost:3000](http://localhost:3000)**
 
